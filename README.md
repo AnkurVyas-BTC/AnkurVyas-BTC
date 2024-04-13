@@ -1,4 +1,5 @@
-## <center>Hello there 👋, I am Ankur Vyas!</center>
+![Ankur Vyas Banner](https://github.com/AnkurVyas-BTC/AnkurVyas-BTC/assets/7837010/e72bb20f-5980-431c-b072-4ae63fdec93b)
+
 
 Ruby on Rails & React JS Web Developer at EzriRx
 
