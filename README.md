@@ -3,7 +3,11 @@
 
 Ruby on Rails & React JS Web Developer at EzriRx
 
-```By coding 💻, I am making someone's life easier or better 😌!!!```
+```ruby
+def what_is_your_favourite_programming_quote
+  "By coding 💻, I am making someone's life easier or better 😌 !!!"
+end
+```
 
 🚀 Experienced in robust web app architecture with Ruby on Rails for backend development, including RESTful API design and DB optimization.
 
